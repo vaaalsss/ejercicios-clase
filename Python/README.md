@@ -6,7 +6,10 @@ Los ejercicios están organizados por temas para facilitar el estudio y la refer
 ## Contenido
 
 - **01_fundamentos**: Fundamentos del lenguaje Python.  
-- **02_estructura_de_datos**: Estructuras de datos básicas (listas, diccionarios, tuplas, etc.).  
+- **02_estructura_de_datos**: Estructuras de datos básicas (listas, diccionarios, tuplas, etc.).
+- **03_conditionals_loops**: Condicionales y bucles.  
+- **04_functions**: Definición y uso de funciones.  
+- **05_files_errors**: Manejo de archivos y gestión de errores. 
 
 ## Cómo usar estos ejercicios
 
@@ -27,7 +30,10 @@ The exercises are organized by topics for easier study and reference.
 ## Contents
 
 - **01_fundamentos**: Python language fundamentals.  
-- **02_estructura_de_datos**: Basic data structures (lists, dictionaries, tuples, etc.).  
+- **02_estructura_de_datos**: Basic data structures (lists, dictionaries, tuples, etc.).
+- **03_conditionals_loops**: Conditionals and loops.  
+- **04_functions**: Defining and using functions.  
+- **05_files_errors**: File handling and error management.  
 
 ## How to use these exercises
 

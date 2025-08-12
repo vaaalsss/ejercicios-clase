@@ -8,8 +8,10 @@ Los ejercicios están organizados por temas para facilitar el estudio y la refer
 - **01_fundamentos**: Fundamentos del lenguaje Python.  
 - **02_estructura_de_datos**: Estructuras de datos básicas (listas, diccionarios, tuplas, etc.).
 - **03_conditionals_loops**: Condicionales y bucles.  
-- **04_functions**: Definición y uso de funciones.  
-- **05_files_errors**: Manejo de archivos y gestión de errores. 
+- **04_funciones**: Definición y uso de funciones.  
+- **05_errores_y_archivo**: Manejo de archivos y gestión de errores.
+- **06_modulos**: Uso de módulos y librerías estándar.  
+- **07_programación_funcional**: Programación funcional en Python.
 
 ## Cómo usar estos ejercicios
 
@@ -32,8 +34,10 @@ The exercises are organized by topics for easier study and reference.
 - **01_fundamentos**: Python language fundamentals.  
 - **02_estructura_de_datos**: Basic data structures (lists, dictionaries, tuples, etc.).
 - **03_conditionals_loops**: Conditionals and loops.  
-- **04_functions**: Defining and using functions.  
-- **05_files_errors**: File handling and error management.  
+- **04_funciones**: Defining and using functions.  
+- **05_errores_y_archivos**: File handling and error management.
+- **06_modulos**: Using modules and standard libraries.  
+- **07_programacion_funcional**: Functional programming in Python.
 
 ## How to use these exercises
 

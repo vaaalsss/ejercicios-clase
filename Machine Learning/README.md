@@ -6,7 +6,8 @@ Los ejercicios están organizados por temas para facilitar el estudio y la refer
 ## Contenido
 
 - **01_panda_basics**  
-- **02_pandas_advance**  
+- **02_pandas_advance**
+- **03_preprocessing**
     
 ## Cómo usar estos ejercicios
 
@@ -28,7 +29,8 @@ The exercises are organized by topics for easier study and reference.
 ## Contents
 
 - **01_panda_basics**  
-- **02_pandas_advance**  
+- **02_pandas_advance**
+- **03_preprocessing**
 
 ## How to use these exercises
 
